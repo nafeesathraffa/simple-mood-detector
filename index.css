@@ -1,0 +1,36 @@
+body {
+        background-image: url("abstract-blue-fractal-background_1017-3289.jpg") ;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-attachment: fixed;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        background-color: darkblue;
+        color: white;
+      }
+      .heading {
+        font-size: 50px;
+        text-align: center;
+      }
+
+      .input-box {
+        display: block;
+        margin: auto;
+        width: 600px;
+        height: 50px;
+        margin-bottom: 20px;
+        font-size: 20px;
+      }
+
+      .submit-button {
+        display: block;
+        margin: auto;
+        width: 100px;
+        height: 40px;
+      }
+
+      .progress-js{
+        text-align: center;
+        font-family: 'Courier New', Courier, monospace;
+        font-weight: 900px;
+        font-size: 18px;
+      }
